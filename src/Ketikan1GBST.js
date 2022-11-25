@@ -15,7 +15,7 @@ function Ketikan1GBST(props) {
   }
   return (
     <>
-      *{props.index}. {gbstarr.nama}, P, {gbstarr.umur} th, {gbstarr.norm}, {gbstarr.ruang}*
+      *{props.index}. {gbstarr.nama}, {sex(gbstarr.kelamin)}, {gbstarr.umur} th, {gbstarr.norm}, {gbstarr.ruang}*
       <br />
       <br />
       Diagnosis
@@ -23,7 +23,7 @@ function Ketikan1GBST(props) {
       *_{converter(gbstarr.diagnos)}_*
       <br />
       <br />
-      Plan: Plan: {gbstarr.plan}
+      Plan: {gbstarr.plan}
       <br />
       GA, OK GBST {gbstarr.noruang} jam {gbstarr.jam}, dr. {gbstarr.dpjp}
       <br />
