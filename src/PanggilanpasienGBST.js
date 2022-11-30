@@ -14,7 +14,7 @@ function PanggilanpasienGBST(props) {
       <p className="text-left">
         Selamat pagi dokter, Mohon izin Dokter, izin melampirkan jadwal operasi hari :
         <br />
-        <br />*{props.hari}, {props.tgl} November 2022*
+        <br />*{props.hari}, {props.tgl} Desember 2022*
         <br />
         <br />*{gbstarr.nama}, {sex(gbstarr.kelamin)}, {gbstarr.umur} th, {gbstarr.norm}, {gbstarr.ruang}*
         <br />

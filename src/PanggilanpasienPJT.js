@@ -14,7 +14,7 @@ function PanggilanpasienPJT(props) {
       <p className="text-left">
         Selamat pagi Dokter, mohon izin melampirkan jadwal operasi hari :
         <br />
-        <br />*{props.hari}, {props.tgl} November 2022*
+        <br />*{props.hari}, {props.tgl} Desember 2022*
         <br />
         <br />*{pjtarr.nama}, {sex(pjtarr.kelamin)}, {pjtarr.umur} th, {pjtarr.norm}, {pjtarr.ruang}*
         <br />

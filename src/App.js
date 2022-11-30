@@ -195,7 +195,7 @@ function App() {
               <p className="text-left">
                 Mohon izin Dokter, izin melampirkan jadwal operasi hari:
                 <br />
-                <br />*{GeneralState.hari}, {GeneralState.tgl} November 2022*
+                <br />*{GeneralState.hari}, {GeneralState.tgl} Desember 2022*
                 <br />
                 <br />
                 *OK PJT*
@@ -224,7 +224,7 @@ function App() {
               <p className="text-left">
                 Selamat Malam dokter, Mohon izin melampirkan jadwal Operasi Hari:
                 <br />
-                <br />*{GeneralState.hari}, {GeneralState.tgl} November 2022*
+                <br />*{GeneralState.hari}, {GeneralState.tgl} Desember 2022*
                 <br />
                 <br />
                 *OK PJT*

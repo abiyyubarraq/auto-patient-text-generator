@@ -5,7 +5,7 @@ function Ketikan2GBST(props) {
 
   return (
     <>
-      {props.index}. Jadwal op tgl: {props.tgl}/11/2022
+      {props.index}. Jadwal op tgl: {props.tgl}/12/2022
       <br />
       Jam: {gbstarr.jam}
       <br />

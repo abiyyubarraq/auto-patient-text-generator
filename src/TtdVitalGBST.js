@@ -22,7 +22,7 @@ function TtdVitalGBST(props) {
         {gbstarr.diagnos}
         <br />
         <br />
-        *Tindakan : ({props.tgl}/11/2022)*
+        *Tindakan : ({props.tgl}/12/2022)*
         <br />
         {gbstarr.plan}
         <br />

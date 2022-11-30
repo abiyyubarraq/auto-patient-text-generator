@@ -4,7 +4,7 @@ function Ketikan2PJT(props) {
   const pjtarr = props.pjtarr
   return (
     <>
-      {props.index}. Jadwal op tgl: {props.tgl}/11/2022
+      {props.index}. Jadwal op tgl: {props.tgl}/12/2022
       <br />
       Jam: {pjtarr.jam}
       <br />
